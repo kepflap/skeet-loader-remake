@@ -1,0 +1,15 @@
+C:\Users\Bogdan\source\repos\Loader\Loader\bin\Release\Loader.exe.config
+C:\Users\Bogdan\source\repos\Loader\Loader\bin\Release\Loader.exe
+C:\Users\Bogdan\source\repos\Loader\Loader\bin\Release\Loader.pdb
+C:\Users\Bogdan\source\repos\Loader\Loader\obj\Release\Loader.csprojResolveAssemblyReference.cache
+C:\Users\Bogdan\source\repos\Loader\Loader\obj\Release\Loader.Properties.Resources.resources
+C:\Users\Bogdan\source\repos\Loader\Loader\obj\Release\Loader.csproj.GenerateResource.Cache
+C:\Users\Bogdan\source\repos\Loader\Loader\obj\Release\Loader.csproj.CoreCompileInputs.cache
+C:\Users\Bogdan\source\repos\Loader\Loader\obj\Release\Loader.exe
+C:\Users\Bogdan\source\repos\Loader\Loader\obj\Release\Loader.pdb
+C:\Users\Bogdan\source\repos\Loader\Loader\obj\Release\Loader.Menu.resources
+C:\Users\Bogdan\source\repos\Loader\Loader\obj\Release\Loader.Login.resources
+C:\Users\Bogdan\source\repos\Loader\Loader\obj\Release\Loader.Info.resources
+C:\Users\Bogdan\source\repos\Loader\Loader\obj\Release\Loader.Injector.resources
+C:\Users\Bogdan\source\repos\Loader\Loader\obj\Release\Loader.Form1.resources
+C:\Users\Bogdan\source\repos\Loader\Loader\obj\Release\Loader.Status_User.resources
