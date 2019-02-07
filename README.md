@@ -1,5 +1,5 @@
 # skeet-loader-remake
-This was a project I started a year ago(01.08.2018), but I'm too lazy to continue 
+This was a project I started a year ago(01.08.2018), but I'm too lazy to continue.
 
 
 This is a remake for gamesense.pub loader from 2017.
